@@ -4,7 +4,7 @@
 
 克隆并解压
 `
-git clone https://github.com/iamfeiwu/ntp-attack && cd ntp-attack && unzip ntp.zip
+git clone https://github.com/Scholar-m/ntp-attack && cd ntp-attack && unzip ntp.zip
 `
 
 扫描列表
